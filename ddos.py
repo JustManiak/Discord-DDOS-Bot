@@ -9,7 +9,7 @@ import sys
 import time
 
 def start():
-    token = "MTE5NjU1NTE4MDg5Njk1NjUyNg.GtQXbW.THBl1wo_HXQEAaQ4xi9FU2FpzULYSb4TkJKmb0"
+    token = "YOUR BOT'S TOKEN HERE"
     prefix = "."
     intents = discord.Intents.all()
     intents.members = True
